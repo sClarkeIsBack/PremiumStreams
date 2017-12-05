@@ -1,0 +1,12 @@
+<settings>
+<category label="General">
+     <setting id="Username" type="text" label="Username" default=""/>
+     <setting id="Password" type="text" label="Password" default=""/>
+</category>
+
+<category label="Extras">
+	 <setting id="meta" type="bool" label="VOD meta" visible="false" default="true"/>
+	 <setting id="footballguide" type="enum" label="Football Guide" lvalues="Flawless Images|wheresthematch.com" default="0" />
+</category>
+
+</settings>
